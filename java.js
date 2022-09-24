@@ -1,0 +1,1 @@
+const java = "another practice";
